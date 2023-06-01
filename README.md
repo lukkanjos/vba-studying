@@ -1,2 +1,2 @@
-# VBA Studying
-Some simple projects I made to practice my understanding about VBA
+# Estudos VBA
+Projetos simples que construí para testar meus conhecimentos em VBA.

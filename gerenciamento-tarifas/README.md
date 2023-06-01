@@ -1,0 +1,2 @@
+## Gerenciamento de tarifas baseado em determinados períodos
+Criei um dashboard para facilitar a visualização do gerente para conseguir observar em períodos a cobrança das tarifas que foram cobradas incorretamente e o valor correto a ser cobrado, separei por data e a quantidade de tarifas no periodo que o gerente clicar para ver
